@@ -53,6 +53,11 @@ input:focus {
   outline: none;
 }
 .inputBox {
+  /* float: right; */
+  /* width: 500px; */
+  /* display: flex; */
+  vertical-align: auto;
+
   background: white;
   height: 50px;
   line-height: 50px;
